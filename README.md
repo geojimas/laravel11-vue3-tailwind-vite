@@ -11,7 +11,7 @@ composer install
 ```
 
 ```
-php artisal migrate
+php artisan migrate
 ```
 
 ```
